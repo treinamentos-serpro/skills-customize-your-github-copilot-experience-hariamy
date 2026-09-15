@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "building-inventory-sqlite",
+      "title": "Sistema de Inventário com SQLite",
+      "description": "Construção de um sistema de inventário persistente usando Python e SQLite",
+      "path": "assignments/building-inventory-sqlite",
+      "dueDate": "2026-09-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
