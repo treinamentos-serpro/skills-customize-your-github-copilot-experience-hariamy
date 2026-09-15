@@ -1,11 +1,11 @@
 
 # 📘 Assignment: Games in Python
 
-## 🎯 Objective
+## 🎯 Objetivos
 
 Crie um jogo de palavras em Python para praticar strings, laços, condicionais e entrada de dados do usuário, enquanto desenvolve uma experiência interativa e jogável.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Configuração do Jogo e Seleção da Palavra
 
