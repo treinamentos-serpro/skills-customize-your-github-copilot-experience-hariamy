@@ -3,14 +3,14 @@
 
 ## 🎯 Objective
 
-Build a simple word game in Python that helps students practice strings, loops, conditionals, and user input while creating an interactive and playable experience.
+Crie um jogo de palavras em Python para praticar strings, laços, condicionais e entrada de dados do usuário, enquanto desenvolve uma experiência interativa e jogável.
 
 ## 📝 Tasks
 
-### 🛠️ Game Setup and Word Selection
+### 🛠️ Configuração do Jogo e Seleção da Palavra
 
 #### Descrição
-Create a Python program that selects a secret word from a predefined list and prepares the game state for the player.
+Crie um programa em Python que selecione uma palavra secreta de uma lista predefinida e prepare o estado inicial do jogo para o jogador.
 
 #### Requisitos
 O programa completo deve:
@@ -20,10 +20,10 @@ O programa completo deve:
 - Exibir a palavra escondida com espaços ou underscores, como _ _ _ _ _
 - Manter a palavra escolhida oculta até que o jogador faça palpites
 
-### 🛠️ Gameplay and Win/Loss Logic
+### 🛠️ Lógica do Jogo e Condição de Vitória/Derrota
 
 #### Descrição
-Implement the game loop that lets the player guess letters, updates the visible progress, and ends the game when the user wins or runs out of attempts.
+Implemente o loop principal do jogo para receber palpites do usuário, atualizar o progresso visível e encerrar a partida quando o jogador vencer ou esgotar as tentativas.
 
 #### Requisitos
 O programa completo deve:
